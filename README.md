@@ -1,1 +1,1 @@
-# setup-environment-variables-with-node.js
+# Setup environment variables with Node.js + Dotenv
